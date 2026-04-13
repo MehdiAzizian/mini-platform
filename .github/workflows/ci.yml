@@ -28,4 +28,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ghcr.io/yourusername/mini-api:latest
+        tags: ghcr.io/mehdiazizian/mini-api:latest
